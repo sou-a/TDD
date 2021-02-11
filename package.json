@@ -6,5 +6,10 @@
   },
   "scripts": {
     "test": "jest"
+  },
+  "prettier": {
+    "singleQuote": true,
+    "semi": false,
+    "printWidth": 160
   }
 }
